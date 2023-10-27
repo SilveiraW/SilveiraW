@@ -1,16 +1,16 @@
-<h2>🤔</h2>
-✨My name is Wálison and I take a technical computer course in Brasil, at the Rio Pomba MG campus.
-I use the languages ​​python, html, c++, java script and pygame.✨
+<h2>🤔😄😄</h2>
+✨My name is Wálison and I take a technical computer course in Brasil, at the Rio Pomba MG campus.✨
 
+<br></br>
 
-<table>
-  <td><tr>I use the languages</tr></td>
-  <td><tr> python</tr></td>
-  <td><tr>html</tr></td>
-  <td><tr> c++</tr></td>
-  <td><tr>java script</tr></td>
-   <td><tr> pygame</tr></td>
-</table>
+| I use the languages |
+|---------------------|
+| CSS                 |
+| Pygame              |
+| C++                 |
+| Java Script         |
+| Html                |
+| Python              |
 
 
 
