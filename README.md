@@ -1,4 +1,4 @@
-###My name is Wálison and I take a technical computer course in Brasil, at the Rio Pomba MG campus.
+My name is Wálison and I take a technical computer course in Brasil, at the Rio Pomba MG campus.
 I use the languages ​​python, html, c++, java script and pygame.
 
 <!--
